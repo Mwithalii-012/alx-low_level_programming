@@ -1,10 +1,4 @@
 #include <stdio.h>
-#include "main.h"
-
-/*
- * the program prints a[2] = 98, followed by a new line*
- * return 0
- */
 
 int main(void)
 {
@@ -18,7 +12,7 @@ p = &n;
 * write your line of code here...
 * Remember:
 * - you are not allowed to use a
-* - you are not allowed to modify p
+* - you are not allowed to modify p 
 * - only one statement
 * - you are not allowed to code anything else than this line of code
 */
